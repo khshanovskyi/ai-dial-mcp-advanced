@@ -36,11 +36,13 @@ By completing this project, you will learn:
     │   └── mcp_server.py           🚧 TODO: Implement core server logic
     ├── tools/
     │   ├── base.py                 ✅ Complete: Abstract tool interface
-    │   ├── calculator.py           ✅ Complete: Math operations tool
-    │   └── web_search.py           🚧 TODO: Implement web search tool
+    │   ├── create_user_tool.py     🚧 TODO: Implement web search tool
+    │   ├── delete_user_tool.py     🚧 TODO: Implement web search tool
+    │   ├── update_user_tool.py     🚧 TODO: Implement web search tool
+    │   ├── get_user_by_id_tool.py  🚧 TODO: Implement web search tool
+    │   └── search_users.py         🚧 TODO: Implement web search tool
     └── server.py                   🚧 TODO: Implement FastAPI server
 ```
-
 ## 📋 Requirements
 
 - **Python**: 3.11 or higher
