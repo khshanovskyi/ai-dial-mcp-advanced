@@ -83,7 +83,7 @@ By completing this project, you will learn:
    - lastly, in [server.py](mcp_server/server.py) provide implementations described in `TODO` sections
 2. Run MCP server locally
 3. Test it with Postman. Import [mcp.postman_collection.json](mcp.postman_collection.json) into postman. (`init` -> `init-notification` -> `tools/list` -> `tools/call`)
-4. Open [agent/app.py](agent/app.py) and run it locally with MCPClient (it is implemented)
+4. Open [agent/app.py](agent/app.py) and run it locally with MCPClient and implement it
 5. Test agent with queries below 👇
 6. Provide implementations described in `TODO` sections for [custom_mcp_client.py](agent/clients/custom_mcp_client.py)
 7. Test again agent with queries below 👇
